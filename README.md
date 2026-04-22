@@ -1,36 +1,32 @@
-# Mi Primer Portafolio 🚀
+# My First Portfolio 
 
-Un portafolio web personal diseñado para mostrar mis proyectos, habilidades y mi progreso continuo en el desarrollo web y la programación. 
+A personal web portfolio designed to showcase my projects, skills, and ongoing progress in web development and programming.
 
-## 🛠️ Tecnologías Utilizadas
+##  Technologies Used
+* **HTML5:** Semantic site structure.
+* **CSS3:** Custom styling, image alignment, and detailed container design.
+* **JavaScript:** Interactivity and dynamic elements.
 
-* **HTML5:** Estructura semántica del sitio.
-* **CSS3:** Estilos personalizados, alineación de imágenes y diseño detallado de contenedores.
-* **JavaScript:** Interactividad y dinamismo en la página.
+##  Key Features
+* **"Who am I" Section:** An introduction to my profile, my background in foreign languages, and my transition into technology.
+* **Visual Design:** Structured layout with a focus on container spacing and the presentation of graphic elements.
+* **Pets Section:** A dedicated page (`mascotas.html`) integrated into the site's flow.
+* **No Dependencies:** This is a *Vanilla* project, meaning it runs natively in any browser without the need for external libraries.
 
-## ✨ Características principales
-
-* **Sección "Who am I":** Una introducción sobre mi perfil, mis estudios en lenguas extranjeras y mi enfoque hacia la tecnología.
-* **Diseño Visual:** Maquetación estructurada con especial atención en el espaciado de contenedores y la presentación de elementos gráficos.
-* **Sección de Mascotas:** Una página dedicada (`mascotas.html`) integrada dentro del flujo del sitio.
-* **Sin dependencias:** Es un proyecto *Vanilla*, por lo que corre nativamente en cualquier navegador sin necesidad de instalar librerías externas.
-
-## 🚀 Instalación y Uso
-
-1. Clona este repositorio en tu máquina local:
+##  Installation and Usage
+1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/xclipsy/MyFirstPortfolio.git](https://github.com/xclipsy/MyFirstPortfolio.git)
+   git clone https://github.com
    ```
-2. Ve a la carpeta del proyecto y abre el archivo `index.html` en tu navegador web de preferencia.
+2. Navigate to the project folder and open the `index.html` file in your preferred web browser.
 
-## 📂 Estructura del Proyecto
+##  Project Structure
+* `index.html`: Main page and entry point of the portfolio.
+* `mascotas.html`: Secondary page with specific content.
+* `styles.css`: Global stylesheet.
+* `script.js`: Logic for interactivity and DOM functions.
+* `/img`: Folder containing all images and graphic assets.
 
-* `index.html`: Página principal y punto de entrada del portafolio.
-* `mascotas.html`: Página secundaria con contenido específico.
-* `styles.css`: Hoja de estilos global de la página.
-* `script.js`: Archivo con la lógica de interactividad y funciones del DOM.
-* `/img`: Carpeta que contiene todas las imágenes y recursos gráficos utilizados.
-
-## 💻 Autor 
-
+## 💻 Author
 **Luis Guerrero**
+
