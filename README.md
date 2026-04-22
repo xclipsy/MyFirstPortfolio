@@ -16,7 +16,7 @@ A personal web portfolio designed to showcase my projects, skills, and ongoing p
 ##  Installation and Usage
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com](https://github.com/xclipsy/MyFirstPortfolio.git)
+   git clone https://github.com/xclipsy/MyFirstPortfolio.git
    ```
 2. Navigate to the project folder and open the `index.html` file in your preferred web browser.
 
