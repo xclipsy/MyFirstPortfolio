@@ -1,15 +1,18 @@
-const boton = document.querySelector('.Mostrar');
-const form = document.querySelector('.forms');
-
-boton.addEventListener('click', () => {
-    if (form.style.display === 'none' ){
-        form.style.display = 'block'
-    }else{
-        form.style.display = 'none'
+const toggleBtn = document.querySelector('.toggle-form');
+const contactForm = document.querySelector('.contact-form');
+ 
+/* Toggle the contact form visibility on button click and the color*/
+toggleBtn.addEventListener('click', () => {
+    if (contactForm.style.display === 'none') {
+        contactForm.style.display = 'block';
+        toggleBtn.style.color = '#e6ccb2';
+    } else {
+        contactForm.style.display = 'none';
+        toggleBtn.style.color = '';
     }
-
-})
-
-window.onload = function(){
-    alert("Se cargo la pagina 🗣️")
-}
+});
+ 
+/* Show a welcome message when the page finishes loading */
+window.onload = function () {
+    alert("Welcome to my website, hope you enjoy it =)");
+};
